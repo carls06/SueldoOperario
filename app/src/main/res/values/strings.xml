@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sueldo Operario</string>
+    <string name="activity2">Detalles</string>
+    <string name="hint_nombre">Ingrese Nombre</string>
+    <string name="hint_sueldo">Ingrese Sueldo Actual</string>
+    <string name="hint_year">Ingrese Años de Antiguedad</string>
+</resources>
